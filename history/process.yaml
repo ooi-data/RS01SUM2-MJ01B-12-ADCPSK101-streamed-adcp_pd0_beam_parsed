@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS01SUM2-MJ01B-12-ADCPSK101-streamed-adcp_pd0_beam_parsed
 data_stream: RS01SUM2-MJ01B-12-ADCPSK101-streamed-adcp_pd0_beam_parsed
 end_date: '2015-12-02T15:38:14.768Z'
-last_updated: '2022-01-22T02:00:08.333559'
+last_updated: '2022-02-10T13:42:21.236119Z'
 start_date: '2015-10-02T22:28:02.113Z'
-status: success
+status: pending
